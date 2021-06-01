@@ -1,1 +1,1 @@
-Handwritten_digit_classification
+In this Code I have built my first neural network in tensorflow and python for handwritten digits classification. I have  first buildta very simple neural network with only input and output layer. After that I have  added a hidden layer and checked how the performance of our model changes. 
